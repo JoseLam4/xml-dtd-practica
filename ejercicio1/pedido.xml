@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido codigo="PED-2026-001">
+    <destinatario>
+        <nombre>Juan Pérez López</nombre>
+    </destinatario>
+    <articulo codigo="ART-404">
+        <descripcion>Portátil Gamer Modelo X</descripcion>
+        <cantidad>1</cantidad>
+        <precio moneda="MXN">18500.00</precio>
+    </articulo>
+    <direccion>
+        <calle>Calle Mayor</calle>
+        <numero>14</numero>
+        <piso>3</piso>
+        <letra>B</letra>
+    </direccion>
+    <fecha_entrega>2026-11-15</fecha_entrega>
+</pedido>
