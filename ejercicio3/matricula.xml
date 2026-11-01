@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE matricula SYSTEM "matricula.dtd">
+<matricula>
+    <personal>
+        <dni>12345678Z</dni>
+        <nombre>Jose Lam</nombre>
+        <titulacion>Licenciatura en Ciencias de la Computación</titulacion>
+        <curso_academico>2026-2027</curso_academico>
+        <domicilios>
+            <domicilio tipo="habitual">Calle Rosales 123, Hermosillo, Sonora</domicilio>
+            <domicilio tipo="familiar">Av. Universidad 456, Hermosillo, Sonora</domicilio>
+        </domicilios>
+    </personal>
+    <pago>
+        <tipo_matricula>Ordinaria</tipo_matricula>
+    </pago>
+</matricula>
